@@ -28,3 +28,20 @@ It is divided into four parts:
 
 - Regression Plots
 - Distribution Plots
+
+## Softwares and libearies used: ##
+- Anaconda Distribution
+- Jupiter Notebook
+- pandas
+- numpay
+- seaborn
+- scikit learn
+- matplotlib
+## Language Programing ##
+- python
+## Algorithms , functions and methods ##
+- simple Linear regression
+- multiple linear regression
+- polynomial multiple linear regression
+- Ridge regression
+- GridSearchCV method
