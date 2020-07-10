@@ -45,3 +45,5 @@ It is divided into four parts:
 - polynomial multiple linear regression
 - Ridge regression
 - GridSearchCV method
+## Analysis ##
+
