@@ -1,4 +1,4 @@
-## Data Analysis and Visualisation to predict Car Prices based on Used Car Prices Data Set
+## Predict Car Prices based on Used Car Prices Data Set(multiple linear regression, Ridge regression, GridSearchCV ) 
 In this project I'm trying to analyze and visualize the Used Car Prices from the dataset: https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data
 
 It is divided into four parts:
